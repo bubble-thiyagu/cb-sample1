@@ -1,0 +1,13 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Galt",
+      "email": "john.galt@test.com",
+      "plan": "Poodle",
+      "state": "trial",
+      "card_status": "no_card",
+    },
+  ]
+}
+
